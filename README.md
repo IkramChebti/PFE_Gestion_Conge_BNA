@@ -3,7 +3,7 @@ Directed by Ikram CHEBTI, june 2022
 
 #FR
 Application web pour la gestion des congés au niveau de la banque nationale d'Algérie "BNA".
-Servant à un offrir au gestionnaires des ressources humaines un outil automatisant et optimisant la gestion des congés des délégatires de pouvoir de l'entreprise.
+Servant à un offrir aux gestionnaires des ressources humaines un outil automatisant et optimisant la gestion des congés des délégatires de pouvoir de l'entreprise.
 
 Langages : HTML, CSS, BOOTSTRAP, JS, SQL, PHP.
 
